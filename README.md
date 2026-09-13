@@ -77,4 +77,4 @@ ou
 ## Autor
 
 Desenvolvido por **Guilherme Perrota**  
-* Projeto disponibilizado para fins de estudo e portfólio.
+* Sinta-se à vontade para entrar em contato ou fazer sugestões de melhoria!
